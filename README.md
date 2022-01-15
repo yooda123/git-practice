@@ -3,3 +3,4 @@
 ローカルリポで更新
 
 rebase-practiceで更新（rebaseコンフリクト用 on rebase-practice）
+rebase pull用
