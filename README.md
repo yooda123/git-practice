@@ -5,4 +5,4 @@
 
 rebase-practice で更新（rebase コンフリクト用 on rebase-practice）
 rebase pull 用
-stash 練習
+stash 練習(トラック済み)
