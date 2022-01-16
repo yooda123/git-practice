@@ -1,6 +1,8 @@
 ﻿# git-practice
-このリポジトリはGit動画講座用です．
+
+このリポジトリは Git 動画講座用です．
 ローカルリポで更新
 
-rebase-practiceで更新（rebaseコンフリクト用 on rebase-practice）
-rebase pull用
+rebase-practice で更新（rebase コンフリクト用 on rebase-practice）
+rebase pull 用
+stash 練習
